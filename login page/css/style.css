@@ -1164,3 +1164,8 @@ button:hover {
   background: #8BC34A;
   color: #ffffff;
 }
+
+#login {
+	height: 400px;
+	width: 500px;
+}
